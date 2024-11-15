@@ -13,7 +13,8 @@ const Projects = () => {
         {
           title: 'Portfolio',
           desc: 'A responsive portfolio website built with React and Tailwind CSS. Features smooth scrolling, dynamic content rendering, and professional design.',
-          image: Portfolio
+          image: Portfolio,
+          github:'https://github.com/ashwallen/Portfolio.git'
         },
         {
           title: 'Study Infinity',
